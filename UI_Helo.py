@@ -59,7 +59,8 @@ system_message_kwargs = {"you_are": "You are an expert AI assistant",
                          "argument": "Helo products and other information about Helo company.",
                          "you_can_only_answer": "about everything",
                          "if_other_topics": "don't worry.",
-                         "more_info": "Use the search tool, each time carrying out a different query but"#
+                         "more_info": "try to be as cut as possible. when possible provide URLs for the user to visit sites where they can find useful information on helo. You have a search tool that allows you to obtain information from documents related to Helo and its products. Use the tool to the best of your ability!"
+                                      "Use the search tool, each time carrying out a different query but"#
                                       " always related to the question (so as to obtain the most heterogeneous results "#
                                       "possible).",
                                       #"If the answer contains mathematical formulas or equations write them in a format "
